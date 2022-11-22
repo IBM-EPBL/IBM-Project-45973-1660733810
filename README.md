@@ -1,0 +1,12 @@
+# IBM-Project-45973-1660733810
+Hazardous Area Monitoring for Industrial Plant powered by IoT
+
+
+TEAM MEMBERS|
+TEAM LEADER : J.MOHAMED IMAMDEEN |
+MEMBER 1 : M.ABDUL JABBAR|
+MEMBER 2 : K.ABISHEK |
+MEMBER 3 : P.BARATH |
+MEMBER 4 : B.BHARATH KUMAR
+
+DOMAIN : ( IOT )
